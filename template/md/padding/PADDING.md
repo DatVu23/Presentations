@@ -16,4 +16,6 @@ background-origin
 @snapend
 
 @img[split-screen-img span-100](template/img/background-origin.png)
+@img[split-screen-img span-100](template/img/border-box.png)
+@img[split-screen-img span-100](template/img/content-box.png)
 background-origin
