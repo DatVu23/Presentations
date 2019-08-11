@@ -1,2 +1,3 @@
----?image=template/img/css-box-model.png
-@title[CSS Box Model]
+---?
+
+@img[split-screen-img span-45](template/img/css-box-model.png)
