@@ -2,7 +2,7 @@
 
 @img[split-screen-img span-45](template/img/css-box-model.png)
 
-@snap[south-west span-20]
+@snap[south-west]
 @ol[](false)
 
 - content edge or inner edge
