@@ -3,8 +3,6 @@
 Margin
 @snapend
 
-@snap
-
 ```
 The following code demonstrates some possible margin declarations.
 body { margin: 2em }         /* all margins set to 2em */
@@ -16,5 +14,3 @@ body { margin: inherit }
 body { margin: initial }
 body { margin: unset }
 ```
-
-@snapend
