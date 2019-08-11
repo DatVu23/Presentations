@@ -7,3 +7,4 @@ CSS Box Model
 
 ---?include=template/md/box-model/BOXMODEL.md
 ---?include=template/md/margin/MARGIN.md
+---?include=template/md/padding/PADDING.md
