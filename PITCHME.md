@@ -6,4 +6,4 @@ CSS Box Model
 @snapend
 
 ---?include=template/md/box-model/BOXMODEL.md
----?include=template/md/comparing/COMPARING.md
+---?include=template/md/margin/MARGIN.md
