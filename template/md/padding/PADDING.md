@@ -12,8 +12,9 @@ Border-clip
 @snapend
 
 +++?
-@snap
+@snap[text-25 text-bold text-white]
 background-origin
 @snapend
 
-@img[split-screen-img span-45](https://prnt.sc/or7eui)
+@img[split-screen-img span-45](template/img/background-origin.png)
+background-origin
