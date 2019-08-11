@@ -15,13 +15,6 @@ body { margin: 5% auto }
 body { margin: inherit }
 body { margin: initial }
 body { margin: unset }
-
-body {
-  margin-top: 1em;
-  margin-right: 2em;
-  margin-bottom: 3em;
-  margin-left: 2em;
-}
 ```
 
 @snapend
