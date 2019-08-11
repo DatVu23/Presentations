@@ -15,7 +15,7 @@
 ### background-origin
 
 @snap[west span-40]
-@img[split-screen-img span-20](template/img/background-origin.png)
+@img[split-screen-img span-20](template/img/padding-box.png)
 @snapend
 @snap[midpoint span-40]
 @img[split-screen-img span-20](template/img/border-box.png)
