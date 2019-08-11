@@ -1,7 +1,6 @@
 ---?
-@snap[text-25 text-bold text-white]
+@color[black](Margin)
 Margin
-@snapend
 
 ```
 The following code demonstrates some possible margin declarations.
