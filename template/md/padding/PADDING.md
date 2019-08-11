@@ -1,16 +1,16 @@
 ---?
 @color[black](Padding)
 
-@snap[text-25 text-bold text-white]
+@snap[text-25 text-bold text-black]
 Background-origin
 @snapend
 
-@snap[text-25 text-bold text-white]
+@snap[text-25 text-bold text-black]
 Border-clip
 @snapend
 
 +++?
-@snap[text-25 text-bold text-white]
+@snap[text-25 text-bold text-black]
 background-origin
 @snapend
 
