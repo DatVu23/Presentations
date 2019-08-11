@@ -1,6 +1,5 @@
 ---?
 @color[black](Margin)
-Margin
 
 ```
 The following code demonstrates some possible margin declarations.

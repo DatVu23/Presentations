@@ -1,7 +1,5 @@
 ---?
-@snap[text-25 text-bold text-white]
-Padding
-@snapend
+@color[black](Padding)
 
 @snap[text-25 text-bold text-white]
 Background-origin

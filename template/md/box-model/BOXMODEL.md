@@ -1,5 +1,5 @@
 ---?
-
+@color[black](Box model)
 @img[split-screen-img span-45](template/img/css-box-model.png)
 
 @snap[south-west span-100]
