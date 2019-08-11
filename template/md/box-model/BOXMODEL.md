@@ -2,8 +2,8 @@
 
 @img[split-screen-img span-45](template/img/css-box-model.png)
 
-@snap[north-west span-10]
-@ul[](false)
+@snap[south-west span-10]
+@ol[](false)
 
 - content edge or inner edge
 - padding edge
