@@ -3,7 +3,7 @@
 @img[split-screen-img span-45](template/img/css-box-model.png)
 
 @snap[south-west span-10]
-@ul[](false)
+@ul[](true)
 
 - content edge or inner edge
 - padding edge
