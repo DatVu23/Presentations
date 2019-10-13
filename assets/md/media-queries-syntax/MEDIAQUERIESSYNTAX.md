@@ -15,3 +15,23 @@ Media Queries Syntax
 @[1-1]
 @[2-2]
 @snapend
+
+---?
+
+@snap[north span-100 text-pink]
+Media Queries Syntax
+@snapend
+
+@snap[west span-50 text-10]
+```css
+    @media all and (min-width:500px) { … }
+    @media (min-width:500px) { … }
+```
+@snapend
+
+@snap[east span-50 text-10]
+```css
+    @media (orientation: portrait) { … }
+    @media all and (orientation: portrait) { … }
+```
+@snapend
