@@ -16,7 +16,7 @@
 
 ---?include=assets/md/features/orientation.md
 
----?include=assets/md/features/aspect-ration.md
+---?include=assets/md/features/aspect-ratio.md
 
 ---?include=assets/md/features/device-aspect-ration.md
 
