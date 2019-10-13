@@ -26,6 +26,8 @@
 
 ---?include=assets/md/features/monochrome.md
 
+---?include=assets/md/features/resolution.md
+
 ---
 
 ## Add Some Slide Candy
