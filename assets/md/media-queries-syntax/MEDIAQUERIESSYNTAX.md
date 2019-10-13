@@ -12,6 +12,6 @@ Media Queries Syntax
 @snapend
 
 @snap[south span-100]
-@[1]
-@[2]
+@[1-1]
+@[2-2]
 @snapend
