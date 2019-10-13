@@ -28,6 +28,7 @@ Background
 Media Types
 @snapend
 
+@snap[west span-55]
 @ul[list-spaced-bullets text-black text-09]
 - Aural
 - Braille
@@ -38,4 +39,5 @@ Media Types
 - Tty
 - Tv
 @ulend
+@snapend
 
