@@ -22,14 +22,14 @@ Media Queries Syntax
 Media Queries Syntax
 @snapend
 
-@snap[west span-40 text-10]
+@snap[west span-40 text-08]
 ```css
     @media all and (min-width:500px) { … }
     @media (min-width:500px) { … }
 ```
 @snapend
 
-@snap[east span-40 text-10]
+@snap[east span-40 text-08]
 ```css
     @media (orientation: portrait) { … }
     @media all and (orientation: portrait) { … }
