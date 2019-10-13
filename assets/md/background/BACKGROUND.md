@@ -2,7 +2,7 @@
 Background
 @snapend
 
-@snap[midpoint text-06]
+@snap[midpoint text-10]
 @ul
 ```html
     <link rel="stylesheet" type="text/css" media="screen" href="main.css">
@@ -17,3 +17,10 @@ Background
 ```
 @ulend
 @snapend
+
+@ul[list-spaced-bullets text-white text-09]
+- You will be amazed
+- What you can achieve
+- *With a little imagination...*
+- And **GitPitch Markdown**
+@ulend
