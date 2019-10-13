@@ -1,5 +1,7 @@
 # Let's Get Started
 
+---?include=assets/md/title/TITLE.md
+
 ---
 
 ## Add Some Slide Candy
