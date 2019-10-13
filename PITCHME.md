@@ -4,9 +4,9 @@
 
 ---?include=assets/md/background/BACKGROUND.md
 
----?include=assets/md/rules/rules.md
+---?include=assets/md/rules/RULES.md
 
----?include=assets/md/features/features.md
+---?include=assets/md/features/FEATURES.md
 
 ---
 
