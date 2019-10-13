@@ -29,7 +29,7 @@ Media Types
 @snapend
 
 @snap[west span-55]
-@ul[list-spaced-bullets text-black text-09]
+@ul[text-black text-10]
 - Aural
 - Braille
 - Handheld
