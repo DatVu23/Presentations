@@ -16,6 +16,8 @@
 
 ---?include=assets/md/features/orientation.md
 
+---?include=assets/md/features/aspect-ration.md
+
 ---
 
 ## Add Some Slide Candy
