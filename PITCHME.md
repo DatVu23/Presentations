@@ -2,6 +2,8 @@
 
 ---?include=assets/md/title/TITLE.md
 
+---?include=assets/md/background/BACKGROUND.md
+
 ---
 
 ## Add Some Slide Candy
