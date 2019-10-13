@@ -59,7 +59,7 @@ Media Queries Not Keyword
 @snap[midpoint text-10]
 ```html
     <link rel="stylesheet" media="not screen and (color)" href="main.css" />
-    
+
 ```
 ```css
     @media not screen and (color) { ... }
@@ -105,7 +105,11 @@ Media Queries Speech Devices
 
 @snap[midpoint text-10]
 ```html
-    <link rel="stylesheet" media="speech and (min-device-width: 800px)" href="main.css" />
+    <link
+        rel="stylesheet"
+        media="speech and (min-device-width: 800px)" 
+        href="main.css"
+    />
 ```
 @snapend
 
