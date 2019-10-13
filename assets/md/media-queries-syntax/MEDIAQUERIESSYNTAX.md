@@ -59,6 +59,7 @@ Media Queries Not Keyword
 @snap[midpoint text-10]
 ```html
     <link rel="stylesheet" media="not screen and (color)" href="main.css" />
+    
 ```
 ```css
     @media not screen and (color) { ... }
@@ -92,7 +93,6 @@ Media Queries Device-Aspect-Ratio
 @snap[midpoint text-10]
 ```html
     <link rel="stylesheet" media="aural and (device-aspect-ratio: 16/9)" href="main.css" />
-    
 ```
 @snapend
 
