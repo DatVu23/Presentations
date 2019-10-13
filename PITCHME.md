@@ -4,7 +4,9 @@
 
 ---?include=assets/md/background/BACKGROUND.md
 
----?include=assets/md/media-queries-syntax/MEDIAQUERIESSYNTAX.md
+---?include=assets/md/rules/RULES.md
+
+---?include=assets/md/features/FEATURES.md
 
 ---
 
