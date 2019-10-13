@@ -92,7 +92,11 @@ Media Queries Device-Aspect-Ratio
 
 @snap[midpoint text-10]
 ```html
-    <link rel="stylesheet" media="aural and (device-aspect-ratio: 16/9)" href="main.css" />
+    <link
+        rel="stylesheet"
+        media="aural and (device-aspect-ratio: 16/9)" 
+        href="main.css"
+    />
 ```
 @snapend
 
