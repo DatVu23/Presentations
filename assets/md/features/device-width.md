@@ -14,4 +14,4 @@ Media Feature Device-Width
 Media Feature Device-Width
 @snapend
 
-![IMAGE](../../img/mobile_mediaqueries.jpg)
+![IMAGE](assets/img/mobile_mediaqueries.jpg)

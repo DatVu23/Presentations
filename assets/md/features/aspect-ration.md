@@ -4,7 +4,7 @@ Media Feature Aspect-Ratio
 
 @snap[midpoint text-10]
 ```css
-    /* Minimum aspect ratio */
+/* Minimum aspect ratio */
 @media (min-aspect-ratio: 8/5)  { ... }
 
 /* Maximum aspect ratio */
