@@ -12,6 +12,8 @@
 
 ---?include=assets/md/features/device-width.md
 
+---?include=assets/md/features/device-height.md
+
 ---
 
 ## Add Some Slide Candy
