@@ -2,18 +2,18 @@
 Background
 @snapend
 
-@snap[midpoint text-03]
+@snap[midpoint text-06]
+@ul
 ```html
     <link rel="stylesheet" type="text/css" media="screen" href="main.css">
     <link rel="stylesheet" type="text/css" media="print" href="footer.css">
 ```
-@snapend
-
-@snap[west span-55]
-@ul[list-spaced-bullets text-white text-09]
-- You will be amazed
-- What you can achieve
-- *With a little imagination...*
-- And **GitPitch Markdown**
+```css
+    @media screen {
+        * { 
+            font-size: 16px;
+        }
+    }
+```
 @ulend
 @snapend
