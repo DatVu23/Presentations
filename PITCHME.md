@@ -6,7 +6,7 @@
 
 ---?include=assets/md/rules/RULES.md
 
----?include=assets/md/features/FEATURES.md
+---?include=assets/md/features/features.md
 
 ---?include=assets/md/features/width.md
 
