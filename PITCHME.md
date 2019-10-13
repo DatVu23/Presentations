@@ -2,7 +2,7 @@
 
 ---?include=assets/md/title/TITLE.md
 
----?include=assets/md/background/background.md
+---?include=assets/md/background/BACKGROUND.md
 
 ---?include=assets/md/rules/rules.md
 
