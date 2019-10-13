@@ -1,10 +1,10 @@
 # Let's Get Started
 
----?include=assets/md/title/TITLE.md
+---?include=assets/md/title/title.md
 
 ---?include=assets/md/background/background.md
 
----?include=assets/md/rules/RULES.md
+---?include=assets/md/rules/rules.md
 
 ---?include=assets/md/features/features.md
 
