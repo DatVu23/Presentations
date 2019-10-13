@@ -19,7 +19,7 @@ Media Queries Syntax
 ---?
 
 @snap[north span-100 text-pink]
-Media Queries Syntax
+Media Queries Logical Expression
 @snapend
 
 @snap[west span-50 text-08]
@@ -33,5 +33,31 @@ Media Queries Syntax
 ```css
     @media (orientation: portrait) { … }
     @media all and (orientation: portrait) { … }
+```
+@snapend
+
+
+---?
+
+@snap[north span-100 text-pink]
+Media Queries Rule List
+@snapend
+
+@snap[midpoint text-10]
+```css
+    @media screen and (color), projection and (color) { … }
+```
+@snapend
+
+
+---?
+
+@snap[north span-100 text-pink]
+Media Queries Not Keyword
+@snapend
+
+@snap[midpoint text-10]
+```html
+    <link rel="stylesheet" media="not screen and (color)" href="example.css" />
 ```
 @snapend
