@@ -44,6 +44,8 @@ Media Types
 
 +++?include=tty.md
 
++++?include=../asd/main-types.md
+
 +++?include=assets/md/asd/main-types.md
 
 +++?include=assets/md/background/main-types.md
