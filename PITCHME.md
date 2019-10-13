@@ -4,6 +4,8 @@
 
 ---?include=assets/md/background/BACKGROUND.md
 
+---?include=assets/md/media-queries-syntax/MEDIAQUERIESSYNTAX.md
+
 ---
 
 ## Add Some Slide Candy
