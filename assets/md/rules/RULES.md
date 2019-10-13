@@ -16,7 +16,7 @@ Media Queries Rules Definition
 @[2-2]
 @snapend
 
----?include=LOGICALEXPRESSION.md
+---?include=assets/md/rules/LOGICALEXPRESSION.md
 
 ---?
 
