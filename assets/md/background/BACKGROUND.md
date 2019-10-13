@@ -20,3 +20,22 @@ Background
 @[1-2]
 @[3-7]
 @snapend
+
+
++++?
+
+@snap[north span-100 text-pink]
+Media Types
+@snapend
+
+@ul[list-spaced-bullets text-white text-09]
+- Aural
+- Braille
+- Handheld
+- Print
+- Projection
+- Screen
+- Tty
+- Tv
+@ulend
+
