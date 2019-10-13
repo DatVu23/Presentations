@@ -1,5 +1,5 @@
 @snap[north span-100 text-pink]
-Media Queries Width
+Media Feature Width
 @snapend
 
 @snap[midpoint text-10]
