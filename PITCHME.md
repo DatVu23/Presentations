@@ -24,6 +24,8 @@
 
 ---?include=assets/md/features/color-index.md
 
+---?include=assets/md/features/monochrome.md
+
 ---
 
 ## Add Some Slide Candy
