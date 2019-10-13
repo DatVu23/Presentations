@@ -31,3 +31,9 @@
 ---?include=assets/md/features/scan.md
 
 ---?include=assets/md/features/grid.md
+
+---?image=assets/img/boring.jpg
+
+@snap[north span-100 h2-white]
+## Thank you for your attention
+@snapend
