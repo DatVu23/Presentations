@@ -28,6 +28,8 @@
 
 ---?include=assets/md/features/resolution.md
 
+---?include=assets/md/features/scan.md
+
 ---
 
 ## Add Some Slide Candy
