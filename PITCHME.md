@@ -18,7 +18,7 @@
 
 ---?include=assets/md/features/aspect-ratio.md
 
----?include=assets/md/features/device-aspect-ration.md
+---?include=assets/md/features/device-aspect-ratio.md
 
 ---?include=assets/md/features/color.md
 
