@@ -42,7 +42,9 @@ Media Types
 @ulend
 @snapend
 
-+++?include=assets/md/background/tty.md
++++?include=tty.md
+
++++?include=assets/md/asd/main-types.md
 
 +++?include=assets/md/background/main-types.md
 
