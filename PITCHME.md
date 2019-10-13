@@ -8,6 +8,8 @@
 
 ---?include=assets/md/features/FEATURES.md
 
+---?include=assets/md/features/width.md
+
 ---
 
 ## Add Some Slide Candy
