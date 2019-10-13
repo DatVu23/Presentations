@@ -20,7 +20,5 @@ Background
 
 @ul[list-spaced-bullets text-white text-09]
 - You will be amazed
-- What you can achieve
-- *With a little imagination...*
 - And **GitPitch Markdown**
 @ulend
