@@ -14,6 +14,8 @@
 
 ---?include=assets/md/features/device-height.md
 
+---?include=assets/md/features/orientation.md
+
 ---
 
 ## Add Some Slide Candy
