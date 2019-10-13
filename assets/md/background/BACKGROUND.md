@@ -3,21 +3,7 @@ Background
 @snapend
 
 @snap[midpoint text-10]
-```html
-    <link rel="stylesheet" type="text/css" media="screen" href="main.css">
-    <link rel="stylesheet" type="text/css" media="print" href="footer.css">
-```
-@snapend
-
-
-+++?
-
-@snap[north span-100 text-pink]
-Background
-@snapend
-
-@snap[midpoint text-10]
-```html
+```html zoom-20
     <link rel="stylesheet" type="text/css" media="screen" href="main.css">
     <link rel="stylesheet" type="text/css" media="print" href="footer.css">
 ```
@@ -28,4 +14,9 @@ Background
         }
     }
 ```
+@snapend
+
+@snap[south span-100]
+@[1-2]
+@[3-7]
 @snapend
