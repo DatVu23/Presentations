@@ -36,8 +36,15 @@ Media Types
 - Print
 - Projection
 - Screen
+- Speech
 - Tty
 - Tv
 @ulend
 @snapend
+
++++?include=assets/md/background/tty.md
+
++++?include=assets/md/background/main-types.md
+
++++?include=assets/md/background/additional-types.md
 
