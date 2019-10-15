@@ -2,6 +2,6 @@
 ## TTY
 @snapend
 
-@snap[midpoint span-70]
+@snap[midpoint span-60]
 ![TTY](assets/img/tty.jpg)
 @snapend
