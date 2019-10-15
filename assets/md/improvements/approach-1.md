@@ -18,10 +18,10 @@ Breakpoints based on the most screen sizes in the world.
 
 @snap[east span-50]
 @ul[text-black text-10]
-- 375px 
-- 768px
-- 1024px
-- 1366px
+- 375px - phones
+- 768px - tablets
+- 1024px - laptops
+- 1366px - screens
 @ulend
 @snapend
 
