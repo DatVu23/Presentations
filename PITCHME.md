@@ -47,6 +47,8 @@
 +++?include=assets/md/improvements/visitors-approach.md
 +++?include=assets/md/improvements/content-approach.md
 
+---?include=assets/md/improvements/progressive-enhancement.md
+
 ---?image=assets/img/boring.jpg
 
 @snap[north span-100 h2-red]
