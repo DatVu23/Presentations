@@ -3,6 +3,9 @@
 ---?include=assets/md/title/title.md
 
 ---?include=assets/md/background/background.md
++++?include=assets/md/background/tty.md
++++?include=assets/md/background/main-types.md
++++?include=assets/md/background/additional-types.md
 
 ---?include=assets/md/rules/rules.md
 
