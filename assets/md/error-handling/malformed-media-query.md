@@ -1,5 +1,5 @@
 @snap[north span-100 text-pink]
-Eror Handling Unknown media feature
+Eror Handling Malflrmed media query
 @snapend
 
 @snap[midpoint text-10]
