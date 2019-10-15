@@ -35,6 +35,8 @@
 
 ---?include=assets/md/features/grid.md
 
+---?include=assets/md/error-handling/error-handling.md
+
 ---?image=assets/img/boring.jpg
 
 @snap[north span-100 h2-red]
