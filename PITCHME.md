@@ -38,10 +38,10 @@
 ---?include=assets/md/error-handling/error-handling.md
 
 ---?include=assets/md/error-handling/unknown-media-feature.md
-
 +++?include=assets/md/error-handling/unknown-media-feature-values.md
-
 +++?include=assets/md/error-handling/malformed-media-query.md
+
+---?include=assets/md/improvements/breakpoints.md
 
 ---?image=assets/img/boring.jpg
 
