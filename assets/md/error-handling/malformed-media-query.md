@@ -8,10 +8,10 @@ Eror Handling Unknown media feature
 
 ```
 ```css
-    @media all and(color) { … }
+@media all and(color) { … }
 
 ```
 ```css
-    @media test;,all { body { background:lime } }
+@media test;,all { body { background:lime } }
 ```
 @snapend
