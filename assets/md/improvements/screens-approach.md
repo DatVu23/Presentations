@@ -1,4 +1,4 @@
-@snap[north-west span-100 text-pink]
+@snap[north-east span-100 text-pink]
 [Approach 1]
 @snapend
 
