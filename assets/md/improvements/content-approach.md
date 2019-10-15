@@ -2,6 +2,4 @@
 [Approach 3]
 @snapend
 
-@snap[midpoint span-100]
 #Breakpoints @color[purple]based on your content.
-@snapend
