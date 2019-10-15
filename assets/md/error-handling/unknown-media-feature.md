@@ -7,6 +7,10 @@ Eror Handling Unknown media feature
 <link
     rel="stylesheet"
     media="screen and (max-weight: 3kg) and (color), (color)" 
-    href="example.css" />
+    href="vrp.css" />
+
+```
+```css
+    @media (min-orientation:portrait) { … }
 ```
 @snapend

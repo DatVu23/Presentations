@@ -4,7 +4,7 @@ Eror Handling Unknown media types
 
 @snap[midpoint text-10]
 ```html
-<link rel="stylesheet" media="sputnikovaya tarelka" href="example.css" />
+<link rel="stylesheet" media="sputnikovaya tarelka" href="vrp.css" />
 
 ```
 ```css
