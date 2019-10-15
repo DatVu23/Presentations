@@ -45,6 +45,7 @@
 +++?include=assets/md/improvements/screens-approach.md
 +++?include=assets/md/improvements/visitors-approach.md
 +++?include=assets/md/improvements/visitors-approach.md
++++?include=assets/md/improvements/content-approach.md
 
 ---?image=assets/img/boring.jpg
 
