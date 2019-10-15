@@ -42,7 +42,7 @@ Media Types
 @ulend
 @snapend
 
-+++?include=tty.md
++++?include=./tty.md
 
 +++?include=../asd/main-types.md
 
