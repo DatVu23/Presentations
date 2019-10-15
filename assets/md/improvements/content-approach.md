@@ -2,4 +2,4 @@
 [Approach 3]
 @snapend
 
-#Breakpoints @color[purple]based on your content.
+#Breakpoints @color[purple](based on your content).
