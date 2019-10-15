@@ -13,7 +13,7 @@ Breakpoints based on the most screen sizes in the world.
 @snapend
 
 @snap[west span-50]
-Breakpoints based on the most screen sizes in the world.
+Breakpoints based on @color[purple](the most popular screen sizes) in the world.
 @snapend
 
 @snap[east span-50]
