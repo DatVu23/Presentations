@@ -42,7 +42,8 @@
 +++?include=assets/md/error-handling/malformed-media-query.md
 
 ---?include=assets/md/improvements/breakpoints.md
-+++?include=assets/md/improvements/screens-approach.md.md
++++?include=assets/md/improvements/screens-approach.md
++++?include=assets/md/improvements/visitors-approach.md
 +++?include=assets/md/improvements/visitors-approach.md
 
 ---?image=assets/img/boring.jpg
