@@ -1,3 +1,3 @@
 ##TTY
 
-![IMAGE](../../tty.jpg)
+![IMAGE](assets/img/tty.jpg)
