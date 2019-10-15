@@ -2,16 +2,6 @@
 [Approach 1]
 @snapend
 
-@snap[midpoint span-100]
-Breakpoints based on the most screen sizes in the world.
-@snapend
-
-+++?
-
-@snap[north-west span-100 text-pink]
-[Approach 1]
-@snapend
-
 @snap[west span-50]
 Breakpoints based on @color[purple](the most popular screen sizes) in the world.
 @snapend
