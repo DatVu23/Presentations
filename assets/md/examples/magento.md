@@ -1,3 +1,3 @@
-@snap[midpoint span-60]
-![](assets/img/magento-database.png)
+@snap[midpoint span-100]
+![](assets/img/magento-database.jpg)
 @snapend
