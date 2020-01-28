@@ -21,6 +21,8 @@
 ![](assets/img/operations.png)
 @snapend
 
+---?include=assets/md/motivation/advantages.md
+
 ---?include=assets/md/features/features.md
 
 ---?include=assets/md/features/width.md
