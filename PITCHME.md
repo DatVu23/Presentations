@@ -1,6 +1,6 @@
 # Let's Get Started
 
----?include=assets/md/title/title.md
+---?include=assets/md/title/background.md
 
 ---?include=assets/md/background/background.md
 +++?include=assets/md/background/tty.md
