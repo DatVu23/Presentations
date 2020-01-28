@@ -7,7 +7,7 @@
 ---?include=assets/md/motivation/problems.md
 
 ---?include=assets/md/examples/databases.md
-+++?include=assets/md/examples/magento-database.md
++++?include=assets/md/examples/magento.md
 
 ---?include=assets/md/rules/rules.md
 
