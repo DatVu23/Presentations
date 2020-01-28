@@ -1,6 +1,8 @@
 ---?image=assets/img/graphql-long.png
 
 ---?include=assets/md/title/title.md
+---?image=assets/img/example-posts-likes.png
+
 +++?include=assets/md/background/tty.md
 +++?include=assets/md/background/main-types.md
 +++?include=assets/md/background/additional-types.md
