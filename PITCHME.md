@@ -6,6 +6,9 @@
 
 ---?include=assets/md/motivation/problems.md
 
+---?include=assets/md/examples/small-databases.md
++++?include=assets/md/examples/ьфпутещ-database.md
+
 ---?include=assets/md/rules/rules.md
 
 ---?include=assets/md/features/features.md
