@@ -1,6 +1,6 @@
 ---?image=assets/img/graphql-long.png
 
----?include=assets/md/title/title.md
+---?include=assets/md/examples/followers.md
 ---?image=assets/img/example-posts-likes.png
 
 +++?include=assets/md/background/tty.md
