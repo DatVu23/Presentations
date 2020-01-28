@@ -4,8 +4,8 @@ Problems
 
 @snap[west span-55]
 @ul[text-black text-10]
-- Complexity
 - Overfetching
+- Complexity
 - Deprecations?
 @ulend
 @snapend

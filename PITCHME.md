@@ -9,8 +9,6 @@
 
 ---?include=assets/md/motivation/problems.md
 
----?include=assets/md/motivation/problems-image.md
-
 ---?@snap[midpoint span-100]
 ![](assets/img/graphql-facebook.jpg)
 @snapend
