@@ -13,6 +13,10 @@
 ![](assets/img/graphql-facebook.jpg)
 @snapend
 
+---?@snap[midpoint span-100]
+![](assets/img/graphql-companies.png)
+@snapend
+
 ---?include=assets/md/features/features.md
 
 ---?include=assets/md/features/width.md
