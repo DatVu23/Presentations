@@ -1,7 +1,10 @@
 ---?image=assets/img/graphql-long.png
 
 ---?include=assets/md/examples/followers.md
+
 ---?include=assets/md/examples/likes.md
+
+---?include=assets/md/motivation/problems.md
 
 +++?include=assets/md/background/tty.md
 +++?include=assets/md/background/main-types.md
