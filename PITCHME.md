@@ -17,6 +17,10 @@
 ![](assets/img/graphql-companies.png)
 @snapend
 
+---?@snap[midpoint span-100]
+![](assets/img/operations.png)
+@snapend
+
 ---?include=assets/md/features/features.md
 
 ---?include=assets/md/features/width.md
