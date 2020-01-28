@@ -2,9 +2,10 @@
 Advantages
 @snapend
 
-@snap[west span-55]
+@snap[west span-60]
 @ul[text-black text-10]
-- Efficient query
+- No underfetching
+- No overfetching
 - Documetation
 - Introspection
 - Static typing and validation
