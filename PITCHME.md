@@ -1,4 +1,4 @@
----?image=assets/img/graphql.jpg
+---?image=assets/img/graphql-long.png
 ---?include=assets/md/title/title.md
 
 ---?include=assets/md/background/background.md
