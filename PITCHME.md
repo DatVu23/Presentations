@@ -6,10 +6,6 @@
 
 ---?include=assets/md/motivation/problems.md
 
-+++?include=assets/md/background/tty.md
-+++?include=assets/md/background/main-types.md
-+++?include=assets/md/background/additional-types.md
-
 ---?include=assets/md/rules/rules.md
 
 ---?include=assets/md/features/features.md
