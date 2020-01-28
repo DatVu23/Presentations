@@ -1,3 +1,3 @@
 @snap[midpoint span-60]
-![](assets/img/tty.jpg)
+![](assets/img/graphql.jpg)
 @snapend
