@@ -4,12 +4,16 @@
 
 ---?include=assets/md/examples/likes.md
 
----?include=assets/md/motivation/problems.md
-
 ---?include=assets/md/examples/databases.md
 +++?include=assets/md/examples/magento.md
 
----?include=assets/md/rules/rules.md
+---?include=assets/md/motivation/problems.md
+
+---?include=assets/md/motivation/problems-image.md
+
+---?@snap[midpoint span-100]
+![](assets/img/graphql-facebook.jpg)
+@snapend
 
 ---?include=assets/md/features/features.md
 
